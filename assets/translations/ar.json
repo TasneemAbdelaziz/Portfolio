@@ -1,0 +1,409 @@
+{
+    "name": "تسنيم عبدالعزيز",
+    "description": "مطورة تطبيقات موبايل",
+    "subDescription": "مطوّرة Flutter ومعيدة",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/TasneemAbdelaziz",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/tasneem-abdelaziz",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "mtasneemabdelaziz@gmail.com",
+            "url": "mailto:mtasneemabdelaziz@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "ar",
+            "url": "https://drive.google.com/file/d/1SEDu-wdXXsYXX48Ee3EKLg7YhdKyt72U/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "مطوّرة Flutter ومعيدة في جامعة العلمين الدولية، تمتلك أكثر من عامين من الخبرة في تطوير تطبيقات Flutter وDart. لديها خلفية قوية في هندسة البرمجيات وهياكل البيانات وClean Architecture، مع خبرة عملية في دمج Firebase وواجهات RESTful APIs. شغوفة بدمج Flutter مع تقنيات الذكاء الاصطناعي لبناء تطبيقات ذكية تعتمد على البيانات، وتسعى باستمرار إلى التطور المهني كمطوّرة ومُعيدة.",
+    "experiences": [
+        {
+            "role": "مطورة تطبيقات موبايل",
+            "company": "Linnovlab",
+            "description": "تطوير تطبيقات للمطاعم (POS، أكشاك، لوحات تحكم) مع تنفيذ ميزات فورية وميزات تعمل بدون اتصال لتجربة مستخدم سلسة.",
+            "isPresent": true,
+            "startYear": 2023,
+            "endYear": 2025,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "GraphQL",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/graphql.svg"
+                    }
+                },
+                {
+                    "name": "PostgreSQL",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/postgresql.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                },
+                {
+                    "name": "AWS",
+                    "icon": {
+                        "codePoint": "0xeed1",
+                        "fontFamily": "BoxIcons"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://linnovlab.com",
+                    "display": "Linnovlab"
+                },
+                {
+                    "url": "https://apps.apple.com/fr/app/caisse-digital-foody/id6664054501",
+                    "display": "Caisse Digital Foody - iOS"
+                }
+            ]
+        },
+        {
+            "role": "مطورة تطبيقات موبايل",
+            "company": "Walt Disney Imagineering",
+            "description": "تطوير تطبيق موبايل يعمل بأسلوب Offline-first لإدارة الملاحظات والمتابعة لمشروع Disneyland Paris، مما سهّل على الخبراء التقنيين جمع المعلومات ميدانيًا وتحسين التواصل مع فرق الصيانة لحل المشكلات.",
+            "isPresent": false,
+            "startYear": 2022,
+            "endYear": 2023,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Django",
+                    "icon": {
+                        "codePoint": "0xeee7",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "Python",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/python.svg"
+                    }
+                },
+                {
+                    "name": "PostgreSQL",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/postgresql.svg"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "codePoint": "0xe944",
+                        "fontFamily": "OctIcons"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                },
+                {
+                    "name": "AWS",
+                    "icon": {
+                        "codePoint": "0xeed1",
+                        "fontFamily": "BoxIcons"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://sites.disney.com/waltdisneyimagineering/",
+                    "display": "Walt Disney Imagineering"
+                }
+            ]
+        },
+        {
+            "role": "مطورة تطبيقات موبايل",
+            "company": "Solutions Multi Techniques",
+            "description": "تطوير تطبيق Progressive Web App لفنيّي أنظمة الأمن يتيح لهم إنشاء عروض أسعار PDF كاملة، مع تسليم فوري للعروض للعملاء بعد الزيارة مما يزيد معدل التحويل.",
+            "startYear": 2022,
+            "startMonth": 1,
+            "endYear": 2022,
+            "endMonth": 2,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.smt-alarme-videosurveillance.com",
+                    "display": "Solutions Multi Techniques"
+                }
+            ]
+        },
+        {
+            "role": "مطورة ويب",
+            "company": "Association FAIRE",
+            "description": "تطوير موقع الجمعية بالتعاون مع فريق من المطورين. يتيح الموقع للزوار التعرف على الجمعية والانضمام كأعضاء.\nحتى الآن، جذب الموقع أكثر من 10,000 زيارة.",
+            "startYear": 2021,
+            "startMonth": 5,
+            "endYear": 2021,
+            "endMonth": 6,
+            "technologies": [
+                {
+                    "name": "HTML",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/html-5.svg"
+                    }
+                },
+                {
+                    "name": "CSS",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/css3.svg"
+                    }
+                },
+                {
+                    "name": "Javascript",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/javascript.svg"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.association-faire.fr",
+                    "display": "Association FAIRE"
+                }
+            ]
+        }
+    ],
+    "present": "حتى الآن",
+    "projects": [
+        {
+            "name": "Portfolio",
+            "description": "مشروع مفتوح المصدر يتيح لأي شخص إنشاء بورتفوليو أونلاين خلال أقل من 10 دقائق. يعتمد على Riverpod وبنية feature-first، وهو متجاوب بالكامل ويدعم عدة ثيمات وعدة لغات.",
+            "url": "https://github.com/AladdineDev/portfolio#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/portfolio.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://brittanychiang.com",
+                    "display": "مستوحى من Brittany Chiang"
+                }
+            ]
+        },
+        {
+            "name": "Learn Flow Backoffice",
+            "description": "Learn Flow مشروع جماعي يهدف إلى إنشاء حل لربط الطلاب بالمدرسين. هذا هو نظام الإدارة (Backoffice) المخصص لمديري المشروع لمتابعة نشاط التطبيقات والمستخدمين (الزيارات، الفواتير...).",
+            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "GSB-Frais",
+            "description": "GSB-Frais تطبيق ويب لإدارة المصروفات، تم تطويره لمندوبي المبيعات الطبية والمحاسبين في الشركة الافتراضية GSB. يسهّل إدخال والتحقق من التقارير الشهرية مع تمكين المحاسبين من معالجتها.",
+            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/gsb-frais.png",
+            "technologies": [
+                {
+                    "name": "Symfony",
+                    "icon": {
+                        "codePoint": "0xf0ab",
+                        "fontFamily": "FontAwesome"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": {
+                        "assetName": "assets/icons/other/bootstrap.svg"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Weather App",
+            "description": "تطبيق طقس حديث يجمع بين بيانات الطقس الفورية وتحليلات مدعومة بالذكاء الاصطناعي لمساعدة المستخدمين على التخطيط ليومهم بشكل أكثر فاعلية. يتضمن التطبيق تقويمًا مدمجًا يتيح للمستخدمين الاطلاع على حالة الطقس اليومية والحصول على توصيات ذكية حول ما إذا كان اليوم مناسبًا للخروج أم لا.\\nيقوم التطبيق بجلب توقعات دقيقة ومحدثة باستمرار من خلال واجهة برمجة تطبيقات للطقس (Weather API)، بينما تضمن مصادقة Supabase أمان حسابات المستخدمين وتوفير تجربة استخدام شخصية وآمنة.",
+            "url": "https://github.com/TasneemAbdelaziz/Weather-app",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/weather_app.jpg",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "الإنجليزية",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        {
+            "code": "ar",
+            "name": "العربية",
+            "nativeName": "العربية",
+            "icon": {
+                "assetName": "assets/icons/flags/egypt.svg"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "made by flutter web",
+        "displayLink": "Forkez-le",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "بورتفوليو",
+    "homeSectionTitle": "الرئيسية",
+    "aboutSectionTitle": "نبذة",
+    "aboutSectionTitleAlt": "نبذة عني",
+    "experienceSectionTitle": "الخبرات",
+    "projectsSectionTitle": "المشاريع",
+    "resume": "السيرة الذاتية",
+    "downloadResume": "تحميل السيرة الذاتية",
+    "openUrlError": "تعذر فتح الرابط",
+    "unknownLanguageError": "لغة غير معروفة"
+}

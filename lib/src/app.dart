@@ -4,8 +4,7 @@ import 'package:portfolio/src/constants/themes.dart' as themes;
 import 'package:portfolio/src/features/general/presentation/general_section.dart';
 import 'package:portfolio/src/features/general/provider/dark_mode_controller.dart';
 import 'package:easy_localization/easy_localization.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
-
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 class MyApp extends ConsumerWidget {
   const MyApp({super.key});
 

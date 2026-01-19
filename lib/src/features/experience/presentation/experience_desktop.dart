@@ -5,8 +5,7 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:portfolio/src/constants/sizes.dart';
 import 'package:portfolio/src/features/experience/data/experience_repository.dart';
 import 'package:portfolio/src/features/experience/presentation/widgets/experience_card.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
-
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 class ExperienceDesktop extends ConsumerWidget {
   const ExperienceDesktop({super.key});
 

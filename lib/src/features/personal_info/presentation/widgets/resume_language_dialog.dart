@@ -5,7 +5,7 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:portfolio/src/common/widgets/selection_area.dart';
 import 'package:portfolio/src/features/personal_info/domain/resume.dart';
 import 'package:portfolio/src/features/personal_info/presentation/widgets/resume_language_dialog_tile.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 
 class ResumeLanguageDialog extends ConsumerWidget {
   const ResumeLanguageDialog({super.key, required this.resumes});

@@ -5,7 +5,7 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:portfolio/src/constants/sizes.dart';
 import 'package:portfolio/src/features/project/data/project_repository.dart';
 import 'package:portfolio/src/features/project/presentation/widgets/project_card.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 
 class ProjectDesktop extends ConsumerWidget {
   const ProjectDesktop({super.key});

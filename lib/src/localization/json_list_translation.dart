@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:portfolio/src/localization/generated/locale_json.g.dart';
+import 'package:portfolio/src/localization/codegen_loader.g.dart';
 
 List<Map<String, dynamic>> trList(Locale locale, String key) {
   final mapLocales = CodegenLoader.mapLocales[locale.languageCode];

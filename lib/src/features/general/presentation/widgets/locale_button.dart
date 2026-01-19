@@ -5,9 +5,9 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:portfolio/src/common/data/language_repository.dart';
 import 'package:portfolio/src/common/widgets/icon.dart';
 import 'package:portfolio/src/constants/sizes.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
 import 'package:portfolio/src/common/domain/language.dart';
 import 'package:portfolio/src/localization/locale_controller.dart';
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 
 class LocaleButton extends ConsumerWidget {
   const LocaleButton({super.key});

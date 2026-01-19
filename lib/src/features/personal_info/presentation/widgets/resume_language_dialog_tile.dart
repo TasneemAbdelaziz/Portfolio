@@ -5,9 +5,9 @@ import 'package:portfolio/src/common/data/language_repository.dart';
 import 'package:portfolio/src/common/widgets/icon.dart';
 import 'package:portfolio/src/constants/sizes.dart';
 import 'package:portfolio/src/features/personal_info/domain/resume.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
 import 'package:portfolio/src/utils/launch_url_helper.dart';
 import 'package:portfolio/src/utils/scaffold_messenger_helper.dart';
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 
 class ResumeLanguageDialogTile extends ConsumerWidget {
   const ResumeLanguageDialogTile({super.key, required this.resume});

@@ -6,8 +6,7 @@ import 'package:portfolio/src/features/personal_info/data/personal_info_reposito
 import 'package:portfolio/src/features/personal_info/domain/resume.dart';
 import 'package:portfolio/src/features/personal_info/presentation/widgets/contact_bar.dart';
 import 'package:portfolio/src/features/personal_info/presentation/widgets/resume_button.dart';
-import 'package:portfolio/src/localization/generated/locale_keys.g.dart';
-
+import 'package:portfolio/src/localization/locale_keys.g.dart';
 class PersonalInfoTablet extends ConsumerWidget {
   const PersonalInfoTablet({super.key});
 
