@@ -1,0 +1,315 @@
+{
+    "name": "Tasneem Abdelaziz",
+    "description": "Mobile App Developer",
+    "subDescription": "Flutter Developer and Teaching Assistant",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/TasneemAbdelaziz",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/tasnem-abdelaziz-b73476221/",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "mtasneemabdelaziz@gmail.com",
+            "url": "mailto:mtasneemabdelaziz@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/17tiPZRxzZtbvN299hQfMSvbyE4vaAI0D/view?usp=sharing"
+        }
+    ],
+    "aboutDescription": "Flutter Developer and Teaching Assistant at Alamein International University with 2+ years of experience in Flutter and Dart development. Strong background in software engineering, data structures, and clean architecture, with hands-on experience integrating Firebase and RESTful APIs. Passionate about combining Flutter with AI to build intelligent, data-driven applications, and committed to continuous growth as both a developer and educator.",
+    "experiences": [
+        {
+            "role": "Teaching Assistant (Full-Time)",
+            "company": "Alamein International University",
+            "description": "Mentored students in software engineering courses, guiding them in clean code, SOLID principles, design patterns, DevOps practices, and technical documentation (UML, testing, estimation).",
+            "isPresent": true,
+            "startYear": 2025,
+            "technologies": [],
+            "links": [
+                {
+                    "url": "https://aiu.edu.eg",
+                    "display": "Alamein International University"
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Cellula",
+            "description": "An internship centered on building AI-powered mobile applications using Flutter. Worked on real-world projects combining clean architecture, modern state management, and AI integration.",
+            "isPresent": false,
+            "startYear": 2025,
+            "endYear": 2025,
+            "startMonth": 1,
+            "endMonth": 2,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Supabase",
+                    "icon": {
+                        "assetName": "assets/images/supabase.svg"
+                    }
+                },
+                {
+                    "name": "RestAPI",
+                    "icon": {
+                        "assetName": "assets/images/rest-api-icon.svg",
+                        "color": "0xffffffff"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://drive.google.com/file/d/18sVdFCfcn1F63pKHG7dK-X9OVF9iV9H3/view?usp=sharing",
+                    "display": "Cellula"
+                }
+            ]
+        }
+    ],
+    "present": "Present",
+    "projects": [
+        {
+            "name": "Hands Talk",
+            "description": "a comprehensive multi-platform application designed 𝐧𝐨𝐭 𝐨𝐧𝐥𝐲 for sign language translation, but more importantly, to promote the full integration of deaf individuals into society. Hands Talk combines Flutter, Unity, and Web technologies to deliver an inclusive communication ecosystem.",
+            "url": "https://github.com/TasneemAbdelaziz/hands-talks",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/hands.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                },
+                {
+                    "name": "Unity",
+                    "icon": {
+                        "assetName": "assets/icons/other/unity.svg",
+                        "color": "0xffffffff"
+                    }
+                },
+                {
+                    "name": "Flask",
+                    "icon": {
+                        "assetName": "assets/icons/other/flask.svg"
+                    }
+                },
+                {
+                    "name": "Python",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/python.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Meal Recommendation",
+            "description": "",
+            "url": "https://github.com/TasneemAbdelaziz/Meal-Recommendation",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/meal_recommendation.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://github.com/AladdineDev/portfolio",
+                    "display": "Inspired by AladdineDev"
+                }
+            ]
+        },
+        {
+            "name": "Recipe App",
+            "description": "Learn Flow is a collaborative project focused on creating a solution that connects students and teachers. This is the back-office build for managers in the Learn Flow project. This Single-Page App enables them to monitor activity such as user traffic and invoices associated with their applications and users.",
+            "url": "https://github.com/AladdineDev/learnflow_backoffice#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Islami App",
+            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
+            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/gsb-frais.png",
+            "technologies": [
+                {
+                    "name": "Symfony",
+                    "icon": {
+                        "codePoint": "0xf0ab",
+                        "fontFamily": "FontAwesome"
+                    }
+                },
+                {
+                    "name": "PHP",
+                    "icon": {
+                        "codePoint": "0xef29",
+                        "fontFamily": "BoxIcons"
+                    }
+                },
+                {
+                    "name": "Bootstrap",
+                    "icon": {
+                        "assetName": "assets/icons/other/bootstrap.svg"
+                    }
+                },
+                {
+                    "name": "MariaDB",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/mariadb.svg"
+                    }
+                },
+                {
+                    "name": "Docker",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/docker.svg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Weather App",
+            "description": "A modern Weather application that combines real-time weather data with AI-driven insights to help users plan their day more effectively. The app integrates a built-in calendar that allows users to view daily weather conditions and receive intelligent recommendations on whether it’s suitable to go out on a selected day.\\nThe application fetches accurate and up-to-date forecasts through a Weather API, while Supabase Authentication ensures secure user accounts",
+            "url": "https://github.com/TasneemAbdelaziz/Weather-app",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/weather_app.jpg",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Supabase",
+                    "icon": {
+                        "assetName": "assets/images/supabase.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        {
+            "code": "ar",
+            "name": "Arabic",
+            "nativeName": "العربية",
+            "icon": {
+                "assetName": "assets/icons/flags/egypt.svg"
+            }
+        }
+    ],
+    "bottomBanner": {
+        "message": "made by flutter web",
+        "displayLink": "Fork it",
+        "linkUrl": "https://github.com/AladdineDev/portfolio#readme"
+    },
+    "portfolio": "Portfolio",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "aboutSectionTitleAlt": "About Me",
+    "experienceSectionTitle": "Experience",
+    "projectsSectionTitle": "Projects",
+    "resume": "Resume",
+    "downloadResume": "Download resume",
+    "openUrlError": "Could not open the url",
+    "unknownLanguageError": "Language unknown"
+}
